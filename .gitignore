@@ -38,14 +38,14 @@ out
 *.idea
 
 # Ignore caches
-/caches
+caches/
 # Ignore deamon
-/daemon
+daemon/
 # Ignore wrapper
-/wrapper
+wrapper/
 # Ignore native
-/native
+native/
 # Ignore jdks
-/jdks
+jdks/
 
-/L01-gradle/gradle
+L01-gradle/gradle/
